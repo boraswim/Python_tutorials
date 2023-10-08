@@ -1,6 +1,7 @@
 # Variable name defining rules
 # Can not start with a number
 # Case sensitive (name != Name)
+# Can not have spaces
 
 # Assign value 10 to the variable "number"
 number = 10
