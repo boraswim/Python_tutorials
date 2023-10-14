@@ -23,5 +23,5 @@ customerAge = 2023 - customerBirthYear
     Order 3 => 356.95   $
 """
 order1, order2, order3 = (110, 1100.5, 356.95)
-sum = order1 + order2 + order3
+total = order1 + order2 + order3
 print("Total: ", total) # Total: 1567.45
